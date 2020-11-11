@@ -1,0 +1,9 @@
+.cartProduct{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 1px 3px 3px #e4e4e4;
+}
+
+.checkout{
+    bottom: 10px;
+}
